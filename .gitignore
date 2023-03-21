@@ -7,4 +7,4 @@ tmp
 # files
 iac/*_output.yaml
 notes.md
-mvnw
+mvnw*

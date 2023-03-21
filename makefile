@@ -1,5 +1,8 @@
 include etc/environment.sh
 
+build_wrapper:
+	mvn wrapper:wrapper
+
 run:
 	./mvnw spring-boot:run
 package:
